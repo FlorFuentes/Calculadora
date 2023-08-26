@@ -1,2 +1,2 @@
 Calculadora 
-Calculadora cientifica desarrollada en HTML, CSS y JAVASCRIPT
+Calculadora desarrollada en HTML, CSS y JAVASCRIPT
